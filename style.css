@@ -63,7 +63,7 @@ nav .top{
 }
 /* wellcome-continer styling */
 .continer{
-    background: rgba(0,0,0,0.90) url('../images/Vectorrr.png');
+    background: rgba(0,0,0,0.90) url('./images/victorImage.png');
     max-width: 1320px;
     margin: 0px auto 100px auto;
     height: 600px;

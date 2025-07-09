@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 nav{
-   background:rgba(0,0,0,0.4) url('../images/Banner image.png');
+   background:rgba(0,0,0,0.4) url('./images/BannerImag.png');
    margin: 100px auto 100px auto;
   max-width: 1320px;
   height: 600px;
